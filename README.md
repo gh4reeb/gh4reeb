@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adil Shafiq
 - 👀 I’m interested in Breaking Codes not heart
-- - 🌱 I’m currently learning Art of Exploitation
+- 🌱 I’m currently learning Art of Exploitation
 - 💞️ I’m looking to collaborate on SIEM, Red Teaming, InfoSec, Scripting, and yeah Entrepreneurship
 - 📫 How to reach me GH4REEB@gmail.com
 - ✨ Read more https://medium.com/@gh4reeb/
