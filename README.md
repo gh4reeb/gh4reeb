@@ -7,13 +7,8 @@
 - 💞️ I’m looking to collaborate on SIEM, Red Teaming, InfoSec, Scripting, and yeah Entrepreneurship
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/gh4reeb?style=social)](https://github.com/gh4reeb)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/gh4reeb)](https://linkedin.com/in/gh4reeb)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gh4reeb)  
-[![GitHub Portfolio](https://img.shields.io/badge/Portfolio-GitHub-lightgrey?style=flat-square&logo=github&logoColor=white)](https://github.com/gh4reeb)
-[![Email](https://img.shields.io/badge/Email-gh4reeb%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gh4reeb@gmail.com)
-## ✍️ Quote of the Day  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+is+not+an+option,+it's+a+priority.;Risk+management+drives+business+success.;Think+like+a+hacker,+act+like+a+defender.;Innovation+lives+where+risks+are+managed.;Data+is+the+new+currency,+protect+it!;Secure+infrastructure,+secure+future.;Your+network+is+only+as+secure+as+your+weakest+link.;In+cybersecurity,+complacency+is+the+enemy.;Hackers+never+rest,+neither+should+your+defenses.;Every+business+decision+is+a+risk+decision.;Resilience+is+the+new+security+strategy.;Don't+just+react,+anticipate+and+defend.;Breaches+are+expensive,+prevention+isn't.;Security+is+a+journey,+not+a+destination.;In+business,+failure+to+prepare+is+preparing+to+fail.;Strong+policies+build+strong+security.;The+cloud+is+secure,+if+you+secure+it.;Cyber+awareness+saves+time+and+money.;Encryption+is+trust+in+digital+form.;Innovation+happens+where+security+meets+strategy.)](https://git.io/typing-svg)
+[![GitHub followers](https://img.shields.io/github/followers/gh4reeb?style=social)](https://github.com/gh4reeb) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/gh4reeb)](https://linkedin.com/in/gh4reeb) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gh4reeb) [![GitHub Portfolio](https://img.shields.io/badge/Portfolio-GitHub-lightgrey?style=flat-square&logo=github&logoColor=white)](https://github.com/gh4reeb) [![Email](https://img.shields.io/badge/Email-gh4reeb%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gh4reeb@gmail.com)
+
 ---
 
 # 🚀👨‍💻 About Me  
@@ -89,6 +84,8 @@ Here are some of the certifications that validate my expertise:
   The University of Agriculture, Peshawar  
 
 ---
+## ✍️ Quote of the Day  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+is+not+an+option,+it's+a+priority.;Risk+management+drives+business+success.;Think+like+a+hacker,+act+like+a+defender.;Innovation+lives+where+risks+are+managed.;Data+is+the+new+currency,+protect+it!;Secure+infrastructure,+secure+future.;Your+network+is+only+as+secure+as+your+weakest+link.;In+cybersecurity,+complacency+is+the+enemy.;Hackers+never+rest,+neither+should+your+defenses.;Every+business+decision+is+a+risk+decision.;Resilience+is+the+new+security+strategy.;Don't+just+react,+anticipate+and+defend.;Breaches+are+expensive,+prevention+isn't.;Security+is+a+journey,+not+a+destination.;In+business,+failure+to+prepare+is+preparing+to+fail.;Strong+policies+build+strong+security.;The+cloud+is+secure,+if+you+secure+it.;Cyber+awareness+saves+time+and+money.;Encryption+is+trust+in+digital+form.;Innovation+happens+where+security+meets+strategy.)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats  
 
