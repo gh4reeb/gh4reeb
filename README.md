@@ -102,11 +102,11 @@ Here are some of the certifications that validate my expertise:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?gh4reeb&theme=radical" />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gh4reeb&show_icons=true&hide_border=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh4reeb&layout=compact&theme=tokyonight)
+  <img width="48%" src="https://github-readme-streak-stats.vercel.app/api?gh4reeb&theme=radical" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gh4reeb&show_icons=true&hide_border=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh4reeb&layout=compact&theme=tokyonight)
 
 ---
 
