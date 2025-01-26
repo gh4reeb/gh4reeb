@@ -100,8 +100,13 @@ Here are some of the certifications that validate my expertise:
 
 ## 📈 GitHub Stats  
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?gh4reeb&theme=radical" />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gh4reeb&show_icons=true&hide_border=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh4reeb&layout=compact&theme=tokyonight)
+</p>
+
 
 ---
 
@@ -110,14 +115,6 @@ Here are some of the certifications that validate my expertise:
 I am open to **contract base remote work**, **consulting**, and **mentoring opportunities**. Feel free to reach out!  
 📧 **Email**: [gh4reeb@gmail.com](mailto:gh4reeb@gmail.com)  
 🌐 **LinkedIn**: [linkedin.com/in/gh4reeb](https://linkedin.com/in/gh4reeb)  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gh4reeb&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?gh4reeb&theme=radical" />
-</p>
 
 ---
 
