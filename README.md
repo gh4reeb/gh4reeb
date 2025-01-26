@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Adil Shafiq
 - 👀 I’m interested in Breaking Codes not heart
 - 🌱 I’m currently learning Art of Exploitation
 - 💞️ I’m looking to collaborate on SIEM, Red Teaming, InfoSec, Scripting, and yeah Entrepreneurship
 - 📫 How to reach me GH4REEB@gmail.com
 - ✨ Read more https://medium.com/@gh4reeb/
 # Hi, I'm Adil Shafiq! 👋  
-### Cybersecurity Engineer | Consultant | Trainer | Cloud Specialist  
+### Cybersecurity Engineer | Consultant | Trainer | Infrastructure Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Engineer+|+Cloud+Specialist;Over+4+Years+of+Experience;Penetration+Tester+|+Incident+Response;OpenStack+Expert+|+SIEM+Developer;Securing+Digital+Landscapes!;Welcome+to+My+GitHub!)](https://git.io/typing-svg)
 
