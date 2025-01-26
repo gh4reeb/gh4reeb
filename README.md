@@ -93,7 +93,7 @@ Here are some of the certifications that validate my expertise:
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gh4reeb&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gh4reeb&theme=radical)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gh4reeb&show_icons=true&hide_border=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh4reeb&layout=compact&theme=tokyonight)
 
