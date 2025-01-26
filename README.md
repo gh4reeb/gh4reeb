@@ -24,16 +24,7 @@ I specialize in:
 - Advanced penetration testing and incident response techniques.  
 - Teaching and mentoring aspiring cybersecurity professionals.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%23FF8C00.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![OpenStack](https://img.shields.io/badge/OpenStack-%23F01742.svg?style=for-the-badge&logo=openstack&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Splunk](https://img.shields.io/badge/Splunk-%23A6CB38.svg?style=for-the-badge&logo=splunk&logoColor=black)  
-![Nessus](https://img.shields.io/badge/Nessus-%2300A9E0.svg?style=for-the-badge&logo=tenable&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-%231675BD.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%23FF8C00.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![OpenStack](https://img.shields.io/badge/OpenStack-%23F01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-%23A6CB38.svg?style=for-the-badge&logo=splunk&logoColor=black) ![Nessus](https://img.shields.io/badge/Nessus-%2300A9E0.svg?style=for-the-badge&logo=tenable&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231675BD.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
 
 ---
 
@@ -101,10 +92,8 @@ Here are some of the certifications that validate my expertise:
 ## 📈 GitHub Stats  
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/api?gh4reeb&theme=radical" />
-</p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gh4reeb&theme=highcontrast)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gh4reeb&show_icons=true&hide_border=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gh4reeb&layout=compact&theme=tokyonight)
 
