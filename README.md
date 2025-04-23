@@ -97,7 +97,7 @@ Here are some of the certifications that validate my expertise:
 ## 📞 Let's Collaborate  
 
 I am open to **contract base remote work**, **consulting**, and **mentoring opportunities**. Feel free to reach out!  
-📧 **Email**: [gh4reeb@gmail.com](mailto:gh4reeb@gmail.com)  
+📧 **Email**: [gh4reeb@gmail.com](mailto:adilshafiq@rebluepk.com)  
 🌐 **LinkedIn**: [linkedin.com/in/gh4reeb](https://linkedin.com/in/gh4reeb)  
 
 ---
